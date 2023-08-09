@@ -1,5 +1,7 @@
 # AWS IoT Device Shadow library
 
+**[API Documentation Pages for current and previous releases of this library can be found here](https://aws.github.io/Device-Shadow-for-AWS-IoT-embedded-sdk/)**
+
 The AWS IoT Device Shadow library enables you to store and retrieve the current
 state (the “shadow”) of every registered device. The device’s shadow is a
 persistent, virtual representation of your device that you can interact with
